@@ -1,0 +1,37 @@
+img {
+  width: 300px;
+  height: auto;
+}
+.header1 {
+  background: mistyrose;
+  color: green;
+}
+
+body {
+  width: auto;
+  height: auto;
+  background: rgb(220, 220, 220);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 17px;
+  line-height: 23px;
+}
+.full {
+  display: inline-flex;
+}
+hr {
+  height: 1px;
+  background: linear-gradient(to right, #00b489 0%, #330867 100%);
+}
+.loiket1{
+    margin-left: 20px;
+}
+
+.loiket{
+    margin-top: 20px;
+    line-height: 30px;
+    margin-left: 20px;
+}
+
+a:hover{
+    color: red;
+}
